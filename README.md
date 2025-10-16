@@ -4,7 +4,7 @@ A simple C++ console application that computes the third side of a right triangl
 
 Build
 - CMake project targeting C++14.
-- Primary target: Test (executable).
+- Primary target: PyTha++ (executable).
 - CLion profile: Debug (MinGW toolchain).
 
 Distribution and running on another computer
