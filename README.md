@@ -1,4 +1,4 @@
-# Test
+# PyTha++
 
 A simple C++ console application that computes the third side of a right triangle using the Pythagorean theorem. It includes robust input validation and colored console output.
 
