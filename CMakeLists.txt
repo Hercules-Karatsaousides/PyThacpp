@@ -7,7 +7,6 @@ add_executable(Test
         Main.cpp
         appicon.rc)
 
-# Set the produced executable file name to "PyTha++"
 set_target_properties(Test PROPERTIES OUTPUT_NAME "PyTha++")
 
 if (MINGW)
